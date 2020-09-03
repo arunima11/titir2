@@ -1,0 +1,131 @@
+.heading{
+	background-color: #f38181;
+	padding-top: 60px;
+	padding-bottom: 50px;
+	text-align: center;
+
+}
+.heading h1{
+	color: #fff;
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: bold;
+	font-size: 5rem;
+	
+}
+.cap{
+	position:relative; ;
+	right: 100px;
+	transform: rotate(-20deg);
+	width: 110px;
+	padding-top: 5px;
+
+	
+}
+.cake{
+	padding-top: 7px;
+	width: 300px;
+}
+.second{
+	text-align: center;
+}
+.second h3{
+	font-family: 'Amatic SC', cursive;
+	color: #8f8f8f;
+	text-align: center;
+}
+.friend{
+	height: 350px;
+	padding-top: 15px;
+}
+.third{
+	background-color: #fce38a;
+	text-align: center;
+
+}
+.third p{
+	text-align: center;
+	margin: 20px 500px 10px 500px;
+}
+.third h2{
+	padding-top: 5px;
+	font-family: 'Gloria Hallelujah', cursive;
+
+
+}
+.third h3{
+	padding: 7px;
+	font-family:'Shadows Into Light', cursive;
+	font-size: 2.5rem; 
+	padding-bottom: 10px;
+}
+.chapterone{
+	
+	padding-top: 55px;
+	text-align: center;
+}
+.castle{
+	height: 150px; 
+	padding-top: 30px;
+
+}
+.clock{
+	height: 150px;
+	padding-top: 10px;
+}
+.teacher{
+	height: 160px;
+	padding-top: 30px;
+}
+.book{
+	height: 170px;
+}
+.forth{
+	background-color: #eaffd0;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.forth{
+	text-align: center;
+    font-family:  'Dancing Script', cursive;
+    color: #8675a9;
+}
+.forth h2{
+	font-size: 3rem;
+	
+}
+.forth h3{
+	font-size: 2rem;
+	
+}
+.gift{
+	position: relative;
+	left: : 300px;
+}
+@media(max-width: 640px){
+	
+	.heading {
+		text-align: center;
+	}
+	.second {
+		text-align: center;
+	}
+	.third {
+		text-align: center;
+	}
+	.forth {
+		text-align: center;
+	}
+	.third p{
+		margin: 0;
+		text-align: center;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+
+}
+
+#footer{
+	text-align: center;
+}
+}
